@@ -1,6 +1,6 @@
 #####
 ##
-##  7. THE ARMY OF PERIOD SUM STORES - theres like a bunch of them
+##  7. THE ARMY OF PERIOD SUM STORES
 ##
 ######
 

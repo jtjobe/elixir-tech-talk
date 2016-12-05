@@ -1,6 +1,6 @@
 #####
 ##
-##  8. ARE WE FINISHED YET - come on man, we're bored and out of pizza
+##  8. ARE WE FINISHED YET
 ##
 ######
 

@@ -1,6 +1,6 @@
 #####
 ##
-##  2. INSIDE THE MAKE REPORT FUNCTION - let's break it down now, yall
+##  2. INSIDE THE MAKE REPORT FUNCTION
 ##
 ######
 

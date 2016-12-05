@@ -1,6 +1,6 @@
 #####
 ##
-##  3. STARTING OUR GEN SERVERS - vroom, vroom, vroom, vroom (like a pack of bikers revving their engines bc they're insecure or maybe its just fun..idk)
+##  3. STARTING OUR GEN SERVERS
 ##
 ######
 

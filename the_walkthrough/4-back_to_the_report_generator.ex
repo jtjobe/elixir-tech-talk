@@ -1,6 +1,6 @@
 #####
 ##
-##  4. BACK TO THE REPORT GENERATOR - "Digging Deeper Into The Workhorse Pipes"
+##  4. BACK TO THE REPORT GENERATOR
 ##
 ######
 

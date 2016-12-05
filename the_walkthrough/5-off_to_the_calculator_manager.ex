@@ -1,6 +1,6 @@
 #####
 ##
-##  5. OFF TO THE CALCULATOR MANAGER - *wants to grow up to be a boss of accountants*
+##  5. OFF TO THE CALCULATOR MANAGER
 ##
 ######
 

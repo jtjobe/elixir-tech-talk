@@ -1,6 +1,6 @@
 #####
 ##
-##  9. WE OUT OF HERE - that's rude, calm down, we're almost finished
+##  9. WE OUT OF HERE
 ##
 ######
 
